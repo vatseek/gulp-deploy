@@ -12,6 +12,7 @@
     "gulp-ftp": "^1.1.0"
   },
   "dependencies": {
+    "gulp": "^3.9.1",
     "gulp-git": "^1.8.0"
   }
 }
