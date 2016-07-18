@@ -8,10 +8,10 @@ var async = require('async');
 const path = require('path');
 
 const options = {
-    host: '188.230.76.5',
+    host: '127.0.0.0',
     port: 21,
-    user: 'xpadmin',
-    password: 'oGh_QDi9',
+    user: 'admin',
+    password: '',
     working_dir: '/web/test',
 };
 
